@@ -6,7 +6,9 @@ Users can search cafes by name or location.
 <br>
 Using Python Flask, users can also add or delete cafes, which will save upon refreshing the page. 
 <br>
-Instructions: 
+<br>
+
+#Instructions:# 
 Download the hw7 folder from this git page
 <br>
 Open terminal (Mac) and cd into the hw7 folder 
