@@ -10,9 +10,9 @@ Using Python Flask, users can also add or delete cafes, which will save upon ref
 
 <b>Instructions:</b>
 <br>
-Download the hw7 folder from this git page
+Download or clone this git project and Unzip the project
 <br>
-Open terminal (Mac) and cd into the hw7 folder 
+Open terminal (Mac) and cd into the folder, then cd into hw7 
 <br>
 Type into the terminal: python server.py 
 <br>
