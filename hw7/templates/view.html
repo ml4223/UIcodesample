@@ -1,0 +1,20 @@
+{%extends "template.html"%}
+
+{% block head %}
+<script>
+var myid = {{id}}
+
+$(document).ready(function(){
+viewit(myid)
+})
+
+</script>
+{% endblock %}
+
+{% block content %} 
+<div id = "justdel"> 
+</div>
+<div id="viewme">
+</div>
+
+{% endblock %}
